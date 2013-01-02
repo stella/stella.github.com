@@ -11,12 +11,11 @@ title: "Posts"
   </h1>
 
   <section class="byline">
-    {{ page.date | date: "%B %e, %Y" }}
+    {{ page.date | date: "%B %e, %Y" }} by <a href="https://delanotes.com/">{{page.who}}</a>
   </section>
 
   {{ page.content }}
 
 </section>
 {% endfor %}
-
 
