@@ -1,10 +1,7 @@
 ---
 layout: layout
-title: "Posts"
 ---
 
-
-{% for page in site.posts %}
 <section class="content">
   <h1>
     <a href="{{ page.url }}">{{ page.title }}</a>
@@ -14,7 +11,7 @@ title: "Posts"
     {{ page.date | date: "%B %e, %Y" }}
   </section>
 
-  {{ page.content }}
+  {{ content }}
 
   <!-- TODO: change links, gravatar, and bio here -->
   <section class="meta">
@@ -25,7 +22,7 @@ title: "Posts"
       </a>
 
       <p>
-        I'm Delano. I built <a href="https://www.blamestella.com/">Stella</a> to scratch an itch. That is, a web monitoring service that met my needs as a web developer. I've worked on sites large and small and I'm putting everything I learned into building great software for others.
+        I'm Delano, the founder. I built Stella to scratch an itch. That is, a web monitoring service that met my needs as a web developer. I've worked on sites large and small and I'm putting everything I learned into building great software for others.
       </p>
 
       <a href="http://twitter.com/share" class="twitter-share-button" data-count="none" data-via="holman">Tweet</a>
@@ -34,6 +31,3 @@ title: "Posts"
     </section>
   </section>
 </section>
-{% endfor %}
-
-

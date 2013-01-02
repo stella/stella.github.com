@@ -1,9 +1,10 @@
+markdown: rdiscount
+pygments: true
+permalink: pretty
+auto: true
 safe: true
-#source: gh-pages
 destination: ./_site
-auto:        true
 lsi:         false
 server_port: 8000
-pygments:    true
-markdown: rdiscount
-permalink:   pretty
+rdiscount:
+  extensions: [smart]
