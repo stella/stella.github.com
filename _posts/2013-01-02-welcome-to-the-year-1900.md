@@ -18,12 +18,12 @@ But take a look at the difference:
 ### Old homepage vs New homepage
 ![Homepage comparison](/images/assets/2013/bs-compare-home-s.png "Compare the old and the new homepage")
 
-The homepage has been tighten up. I brought all the important stuff above the fold and removed the news conversations (which you can't see in the screencap but you can tell they took up a lot of room).
+The homepage has been tightened up. I brought all the important stuff above the fold and removed the news conversations (which you can't see in the screencap but you can tell they took up a lot of room).
 
 ### Old dashboard vs New dashboard
 ![Dashboard comparison](/images/assets/2013/bs-compare-dashboard-s.png "Compare the old and the new dashboard")
 
-Thanks to PhantomJS (headless webkit), we can now take screenshots. It's a much more intuitive way to natigate your list of sites.
+Thanks to PhantomJS (headless webkit), we can now take screenshots. It's a much more intuitive way to navigate your list of sites.
 
 ## What's Next
 
