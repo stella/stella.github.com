@@ -2,7 +2,7 @@
 layout: post
 title: Welcome to the year 1900
 who: delano
-bio: http://delanotes.com/
+bio: https://delanotes.com/
 ---
 
 It's been a long-time coming but the new version of [Stella](https://www.blamestella.com/) is live. I ran the migration on New Year's Eve which is perfect timing if you know Morton and Tucker (the characters behind the brand). For them, it's 1900 and what better way to ring in the new century!
