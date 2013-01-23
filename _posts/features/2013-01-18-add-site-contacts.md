@@ -5,7 +5,7 @@ who: delano
 bio: https://twitter.com/solutious
 ---
 
-We release a new feature today: site contacts.
+We released a new feature today: site contacts.
 
 ## Site Settings
 
