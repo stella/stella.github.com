@@ -2,7 +2,7 @@
 layout: post
 title: 'New Feature: HTTP Authentication'
 who: delano
-bio: http://delanotes.com/
+bio: https://twitter.com/solutious
 ---
 
 There was a lot to do at launch and some basic features hadn't been implemented yet. Supprt for HTTP authentication is one of those features.

@@ -2,7 +2,7 @@
 layout: post
 title: Goodnight Old Site
 who: delano
-bio: http://delanotes.com/
+bio: https://twitter.com/solutious
 ---
 
 I just turned off old.blamestella.com. After two, loyal years of service, the original blamestella.com has been decommissioned. It had it's bumps and scrapes but that app ran like a rock.

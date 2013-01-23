@@ -2,7 +2,7 @@
 layout: post
 title: Welcome to the year 1900
 who: delano
-bio: https://delanotes.com/
+bio: https://twitter.com/solutious
 ---
 
 It's been a long-time coming but the new version of [Stella](https://www.blamestella.com/) is live. I ran the migration on New Year's Eve which is perfect timing if you know Morton and Tucker (the characters behind the brand). For them, it's 1900 and what better way to ring in the new century!
@@ -36,6 +36,6 @@ And as you can see this blog is new too. I'm going to write more about the techn
 * Who are Morton &amp; Tucker and why do I care?
 * My thoughts on startup accelerators (we went through one)
 
-I also have another announcement lined up for this week. Stay tuned!
+I also have another announcement lined up for this month. Stay tuned!
 
 -- [Delano](https://twitter.com/solutious)
